@@ -1,0 +1,10 @@
+.DS_Store
+.bundle
+\#*
+*~
+.#*
+.idea
+.project
+tmp
+nbproject
+*.swp
